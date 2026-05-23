@@ -1,0 +1,13 @@
+ticker,company,quarter,revenue_b,net_income_b,ebitda_b,eps,pe_ratio
+AAPL,Apple Inc.,Q1_2025,95.5,23.5,30.2,1.52,28.4
+AAPL,Apple Inc.,Q2_2025,90.1,21.0,27.8,1.40,29.1
+AAPL,Apple Inc.,Q3_2025,85.8,19.2,25.6,1.25,30.2
+MSFT,Microsoft Corp.,Q1_2025,62.0,21.8,28.0,2.93,34.5
+MSFT,Microsoft Corp.,Q2_2025,65.6,23.1,29.8,3.12,35.2
+MSFT,Microsoft Corp.,Q3_2025,63.2,22.0,28.5,2.98,34.9
+GOOGL,Alphabet Inc.,Q1_2025,80.5,23.6,26.3,1.89,24.1
+GOOGL,Alphabet Inc.,Q2_2025,84.7,25.4,28.1,2.03,23.5
+GOOGL,Alphabet Inc.,Q3_2025,88.2,26.3,29.5,2.12,23.0
+AMZN,Amazon.com Inc.,Q1_2025,143.1,10.4,14.8,1.00,40.2
+AMZN,Amazon.com Inc.,Q2_2025,148.0,11.2,15.6,1.08,39.5
+AMZN,Amazon.com Inc.,Q3_2025,152.5,12.5,17.2,1.20,38.0
